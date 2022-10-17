@@ -3,7 +3,9 @@ function quote(name, year, text) {
 }
 
 function curriedQuote(name) {
-  // TODO implement me!
+  return (year, text) => {
+    quote(name, year, text);
+  }
 }
 
 const quoteCrockford = curriedQuote("Doug Crockford");

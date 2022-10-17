@@ -1,6 +1,6 @@
 // You may not change the signature of min()
 function min() {
-  return null;
+  return arguments.length !== 0 ? Math.min(...arguments) : undefined;
 }
 
 console.log(min()); // undefined

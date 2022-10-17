@@ -12,13 +12,15 @@ writing.
 Please write your answer under each heading.
 
 ## Part 1
-
-
-
-
-
-
+myMethod1 returns undefined because the way the function is defined, it creates a new
+function scope which means that the method no longer has access to the object named "this."
+This is not the case for anonymous functions since they inherit the scope of whatever environment
+they are defined in, which is why myMethod2 has access to "this."
 
 ## Part 2
-
+API aids the communication between requests from the client (aka the computer) and responses from
+the service side (aka the server/database storing the information). The API specifically handles
+the intersection between the client and the server (receiving requests and transferring back information).
+Programming on the client side is called front-end development while working the server side is called
+back-end development.
 

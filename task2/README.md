@@ -7,12 +7,12 @@ Please add an "x" in the `[ ]` preceding the correct choice(s) for each question
 
    - [ ] To style HTML pages
    - [ ] To execute Queries related to databases on a server
-   - [ ] To add interactivity to HTML pages
+   - [X] To add interactivity to HTML pages
    - [ ] All of the above
 
 2. Which HTML element is meant to contain the JavaScript code?
 
-   - [ ] `<script>`
+   - [X] `<script>`
    - [ ] `<javascript>`
    - [ ] `<js>`
    - [ ] `<code>`
@@ -21,7 +21,7 @@ Please add an "x" in the `[ ]` preceding the correct choice(s) for each question
 
    - [ ] `Undefined`
    - [ ] `Number`
-   - [ ] `Boolean`
+   - [X] `Boolean`
    - [ ] `Float`
 
 4. What is printed out?
@@ -33,13 +33,13 @@ Please add an "x" in the `[ ]` preceding the correct choice(s) for each question
    - [ ] Throws ArithmeticException
    - [ ] Throws Divide by zero error
    - [ ] Prints `NaN`
-   - [ ] Prints `infinity`
+   - [X] Prints `infinity`
    - [ ] Prints `undefined`
 
 5. Which of the following is not considered a JavaScript operator?
 
    - [ ] `this`
-   - [ ] `new`
+   - [X] `new`
    - [ ] `instance`
    - [ ] `delete`
 
@@ -47,5 +47,5 @@ Please add an "x" in the `[ ]` preceding the correct choice(s) for each question
 
    - [ ] When the function is nested in another function.
    - [ ] When the function is a class method.
-   - [ ] When the function is defined as an expression.
+   - [X] When the function is defined as an expression.
    - [ ] None of the above.
