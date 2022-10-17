@@ -24,7 +24,7 @@ You must sign the pledge by providing your full name (as it appears on SIS) and 
 NAME=Carol Zhang
 JHED=czhan130
 GITHUB_USERNAME=crosezhang
-GITHUB_REPO=
+GITHUB_REPO=https://github.com/crosezhang/javascript-midterm-practice
 ```
 
 ## Submission
